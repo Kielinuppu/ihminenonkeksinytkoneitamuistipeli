@@ -140,7 +140,6 @@ function adjustLayout() {
     resizeCards();
     adjustGameBoardSize();
     centerGameBoard();
-    positionFeedback();
 }
 
 function startGame(level) {
